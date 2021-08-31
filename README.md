@@ -1,6 +1,8 @@
 ### Hi there 👋
 :mortar_board: I'm currently a junior at ISU
+
 :books: I'm interested in learning enough to pass my classes
+
 :fishing_pole_and_fish: One of favorite hobbies is fishing
 <!--
 **cpluke/cpluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
