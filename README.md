@@ -3,7 +3,7 @@
 
 :books: I'm interested in learning enough to pass my classes
 
-:fishing_pole_and_fish: One of favorite hobbies is fishing
+:fishing_pole_and_fish: One of my favorite hobbies is fishing
 <!--
 **cpluke/cpluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
